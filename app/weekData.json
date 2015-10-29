@@ -1,0 +1,158 @@
+{
+    "session": [
+        {
+            "date": "30-Apr-12",
+            "close": 583.98
+        },
+        {
+            "date": "27-Apr-12",
+            "close": 603
+        },
+        {
+            "date": "26-Apr-12",
+            "close": 607.7
+        },
+        {
+            "date": "25-Apr-12",
+            "close": 610
+        },
+        {
+            "date": "24-Apr-12",
+            "close": 560.28
+        },
+        {
+            "date": "23-Apr-12",
+            "close": 571.7
+        },
+        {
+            "date": "20-Apr-12",
+            "close": 572.98
+        }
+    ],
+    "users": [
+        {
+            "date": "30-Apr-12",
+            "close": 183.98
+        },
+        {
+            "date": "27-Apr-12",
+            "close": 103
+        },
+        {
+            "date": "26-Apr-12",
+            "close": 107.7
+        },
+        {
+            "date": "25-Apr-12",
+            "close": 110
+        },
+        {
+            "date": "24-Apr-12",
+            "close": 160.28
+        },
+        {
+            "date": "23-Apr-12",
+            "close": 171.7
+        },
+        {
+            "date": "20-Apr-12",
+            "close": 172.98
+        }
+    ],
+    "pageviews": [
+        {
+            "date": "30-Apr-12",
+            "close": 183.98
+        },
+        {
+            "date": "27-Apr-12",
+            "close": 103
+        },
+        {
+            "date": "26-Apr-12",
+            "close": 107.7
+        },
+        {
+            "date": "25-Apr-12",
+            "close": 110
+        },
+        {
+            "date": "24-Apr-12",
+            "close": 160.28
+        },
+        {
+            "date": "23-Apr-12",
+            "close": 171.7
+        }
+    ],
+    "pagespersession": [
+        {
+            "date": "30-Apr-12",
+            "close": 183.98
+        },
+        {
+            "date": "27-Apr-12",
+            "close": 103
+        },
+        {
+            "date": "26-Apr-12",
+            "close": 107.7
+        },
+        {
+            "date": "25-Apr-12",
+            "close": 110
+        },
+        {
+            "date": "24-Apr-12",
+            "close": 160.28
+        }
+    ],
+    "duration": [
+        {
+            "date": "30-Apr-12",
+            "close": 183.98
+        },
+        {
+            "date": "27-Apr-12",
+            "close": 103
+        },
+        {
+            "date": "26-Apr-12",
+            "close": 107.7
+        },
+        {
+            "date": "25-Apr-12",
+            "close": 110
+        },
+        {
+            "date": "24-Apr-12",
+            "close": 160.28
+        },
+        {
+            "date": "23-Apr-12",
+            "close": 171.7
+        }
+    ],
+    "bouncerate": [
+        {
+            "date": "30-Apr-12",
+            "close": 183.98
+        },
+        {
+            "date": "27-Apr-12",
+            "close": 103
+        },
+        {
+            "date": "26-Apr-12",
+            "close": 107.7
+        },
+        {
+            "date": "25-Apr-12",
+            "close": 110
+        },
+        {
+            "date": "24-Apr-12",
+            "close": 160.28
+        }
+    ]
+}

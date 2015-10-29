@@ -1,0 +1,85 @@
+/* Styles go here */
+
+body {
+	margin: 20px;
+}
+
+.visorhead{
+	display: flex;
+}
+
+.visorhead .showsummary {
+	flex: 1;
+	display: flex;
+	align-items: center;
+	max-width: 300px;
+	border: 1px solid #E0E0E0;
+	padding-left: 20px;
+}
+
+
+.showsummary .showicon {
+	flex: 1;
+	color: #198EC4;
+}
+
+.showsummary .showcontent {
+	flex: 3;
+	margin: 10px 0;
+}
+
+
+.visorbody {
+  margin: 10px auto;
+  border-top: 1px solid #E0E0E0;
+  border-bottom: 1px solid #E0E0E0;
+}
+
+.visorbody .visorbodyhead {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px 40px;
+}
+
+
+.visorbottom {
+	display: flex;
+	margin-top: 50px;
+}
+
+.visorbottom .chartgroup {
+	flex: 3;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.visorbottom .piechart {
+	flex: 2;
+	margin-left: 100px;
+}
+
+.visualization-title {
+	text-align: center;
+}
+
+/*Line Chart Start
+*/
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+/*  display: none;*/
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+/*Line Chart End
+*/
